@@ -1,0 +1,113 @@
+.gmg{
+    margin-left: 300px;
+    margin-top: 50px;
+    width: 900px;
+    height: 800px;
+    border-radius: 5px;
+
+    
+}
+
+.gmg h5{
+    margin-left: 50px;;
+}
+.gmg h6{
+    margin-left: 50px;;
+}
+.gmg h7{
+    margin-left: 50px;;
+}
+.gmg ul li{
+    margin-left: 50px;
+    padding-top: 10px;
+}
+.gmg p{
+    padding-top: 30px;
+    margin-left: 50px;
+    text-align: justify;
+    line-height:2.5;
+}
+
+
+.ttle  span{
+    color: #76016f;
+}
+.ttle{
+    margin-top: 100px;
+    margin-left: 300px;
+    color: #000000;
+
+}
+
+.gambare{
+    border-radius: 10px;
+}
+
+.table {
+    text-align: center;
+
+}
+
+
+.p2{
+margin-top: 900px;
+}
+.p3{
+margin-top: 900px;
+}
+.p4{
+margin-top: 1000px;
+}
+.p5{
+margin-top: 800px;
+}
+.p6{
+margin-top: 900px;
+}
+.p7{
+margin-top: 800px;
+}
+
+.fot{
+    margin-top: 900px;
+    background-color: #76016f;
+    padding-left: 1200px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 50px;
+    padding-top: 10px;
+}
+.tulisanku{
+    position: relative;
+    bottom: 25px;
+    left: 30px;
+}
+.tulisne{
+    position: relative;
+    bottom: 93px;
+    right: 1070px;
+}
+
+.kembali{
+    position: relative;
+    bottom: 71px;
+    right: 1100px;
+    cursor: pointer;
+}
+
+.tulisana{
+    position: relative;
+    bottom: 48px;
+    right: 550px;
+}
+
+
+.zi{
+    margin-top: 100px;
+    background-color:  #76016f;
+    padding-left: 1200px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 50px;
+    padding-top: 10px;
+}

@@ -1,0 +1,38 @@
+.isine{
+    width: 450px;
+    margin-left: 300px;
+    margin-top: 50px;
+    height: 200px;
+    text-align: justify;
+    line-height: 1,5;
+}
+.isine2{
+    width: 450px;
+    position: absolute;
+    left: 800px;
+    top: 312px;
+    height: 200px;
+    text-align: justify;
+    line-height: 1,5;
+}
+
+.isine3{
+    width: 450px;
+    margin-left: 300px;
+    margin-top: 900px;
+    height: 200px;
+    text-align: justify;
+    line-height: 1,5;
+}
+
+.isine4{
+    margin-top: 1100px;
+    width: 450px;
+    position: absolute;
+    left: 800px;
+    top: 312px;
+    height: 200px;
+    text-align: justify;
+    line-height: 1,5;
+}
+
